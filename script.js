@@ -1276,7 +1276,7 @@ const Notifications = {
 const LoadingOverlay = {
     init() {
         setTimeout(() => {
-            const overlay = document.getElementById('loadingOverlay');
+            const overlay = document.getElementById('loading-Overlay');
             if (overlay) {
                 overlay.style.opacity = '0';
                 setTimeout(() => overlay.style.display = 'none', 500);
