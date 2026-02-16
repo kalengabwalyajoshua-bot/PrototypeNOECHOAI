@@ -1,3 +1,4 @@
+console.log("EchoAI script loaded");
 // =========================================================
 // ECHOAI - NEURAL OPERATING SYSTEM
 // Complete Production Script
